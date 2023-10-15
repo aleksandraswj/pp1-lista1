@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1697395508 source:c:\pwr\podstawyprogramowania\lista1\prog1_3_6\src\ukladrownan.cpp
+	"UkladRownan.h"
+
+1697395144 c:\pwr\podstawyprogramowania\lista1\prog1_3_6\include\ukladrownan.h
+
+1697395159 source:c:\pwr\podstawyprogramowania\lista1\prog1_3_6\main.cpp
+	<iostream>
+	<UkladRownan.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1697391750 source:c:\pwr\podstawyprogramowania\helloworld\prog1_3_5\src\trojkat.cpp
+	"Trojkat.h"
+	"math.h"
+
+1697390969 c:\pwr\podstawyprogramowania\helloworld\prog1_3_5\include\trojkat.h
+
+1697391867 source:c:\pwr\podstawyprogramowania\helloworld\prog1_3_5\main.cpp
+	<iostream>
+	<math.h>
+	<Trojkat.h>
+
